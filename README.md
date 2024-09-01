@@ -4,7 +4,7 @@
 
 Supply chain analytics is a valuable part of data-driven decision-making in various industries such as
 manufacturing, retail, healthcare, and logistics. It is the process of collecting, analyzing and interpreting
-data related to the movement of products and services from suppliers to customers.
+data related to moving products and services from suppliers to customers.
 Here is a dataset we collected from a Fashion and Beauty startup. The dataset is based on the supply
 chain of Makeup products. 
 
@@ -39,8 +39,8 @@ chain of Makeup products.
 
 # Project Overview
  
- The objective of this project is to create a comprehensive Supply Chain Management (SCM) Dashboard using Tableau. This dashboard will help monitor and optimize various
-aspects of the supply chain, including inventory levels, order fulfillment, supplier performance, transportation efficiency, and overall supply chain costs.
+ This project aims to create a comprehensive Supply Chain Management (SCM) Dashboard using Tableau. This dashboard will help monitor and optimize various
+aspects of the supply chain, including inventory levels, order fulfilment, supplier performance, transportation efficiency, and overall supply chain costs.
 
 # Step 1: Data Preparation
 Ensure your data sources cover the following metrics:
@@ -88,7 +88,7 @@ Ensure your data sources cover the following metrics:
 # Step 2:Dashboard Creation
 
 # 1. Connect Data Sources:
- Open Tableau Desktop and connect to your prepared data sources (CSV files,databases, etc.).
+ Open Tableau Desktop and connect to your prepared data sources (CSV files, databases, etc.).
  
 # 2. Create Sheets for Each Metric:
 
@@ -181,8 +181,8 @@ safety stock levels.
 ● Cost Trends: Costs have been stable, with a slight increase in transportation costs.
 
 # Conclusion: 
-The Supply Chain Management Dashboard provides a detailed view of the supply chain's performance. By tracking key metrics such as inventory levels, order
-fulfillment, supplier performance, transportation efficiency, and costs, the dashboard helps identify areas for improvement and ensures efficient supply                                                      
+The Supply Chain Management Dashboard provides a detailed performance of the supply chain. By tracking key metrics such as inventory levels, order
+fulfilment, supplier performance, transportation efficiency, and costs, the dashboard helps identify areas for improvement and ensures efficient supply                                                      
 chain operations.
 
 # Code and Calculated Fields
@@ -207,5 +207,5 @@ Total Costs: SUM([Amount])
 
 After creating the dashboard:
 1. Go to File > Export As > Image/PDF to save a static version of the dashboard.
-2. Alternatively, you can publish the dashboard to POWER BI for interactive use.This project plan provides a structured approach to                                            
-implementing a Supply Chain Management dashboard using power bi, complete with data preparation guidelines, dashboard creation steps, and a final report template.
+2. Alternatively, you can publish the dashboard to POWER BI for interactive use. This project plan provides a structured approach to                                            
+implementing a Supply Chain Management dashboard using Power BI, complete with data preparation guidelines, dashboard creation steps, and a final report template.
